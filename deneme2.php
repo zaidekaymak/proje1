@@ -1,4 +1,3 @@
 <?PHP
-echo "zaide";
-echo "kaymak";
+echo "commit ekleeme";
 ?>
